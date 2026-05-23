@@ -88,11 +88,11 @@ Edit this README.md file and complete the table:
 
 | Field | Your Answer |
 |---|---|
-| Full Name | |
-| GitHub Username | |
-| CCP Email | |
-| Operating System (Windows/Mac/Linux) | |
-| Date Completed | |
+| Full Name | Andy Liu |
+| GitHub Username | ALiu716 |
+| CCP Email | aliu18@student.ccp.edu |
+| Operating System (Windows/Mac/Linux) | Windows |
+| Date Completed | 05/23/2026 |
 
 ---
 
@@ -100,15 +100,19 @@ Edit this README.md file and complete the table:
 
 Q1: In your own words, what is GitHub and why do developers use it?
 
-    [Your answer here — 2 to 3 sentences]
+    [ Github is a platform built around git which allows developers to store and manage projects. 
+    It also acts as a version control system that can track changes in files.
+    Developers use it because of the version control system and the ease of collaborating on projects. ]
 
 Q2: What is the difference between Git and GitHub?
 
-    [Your answer here — 2 to 3 sentences]
+    [ The difference is that Git is just a tool to track changes in code locally. 
+    However, Github differs because it is a cloud based platform that allows users to share their code with others. ]
 
 Q3: Why would a future employer look at your GitHub profile?
 
-    [Your answer here — 1 to 2 sentences]
+    [ A future employer might look through a Github profile be cause it also can act as a portfolio. 
+    They can see the projects that you've worked on and decide if you're a good fit for the job. ]
 
 ---
 
