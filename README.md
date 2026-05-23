@@ -134,10 +134,10 @@ Drag these image files into your repo folder, then write the filename next to ea
 
 | Screenshot | Filename |
 |---|---|
-| Your GitHub profile page (logged in) | |
-| git --version output in terminal | |
-| git config --list showing your name and email | |
-| Your repo on github.com after pushing | |
+| Your GitHub profile page (logged in) | profile.png |
+| git --version output in terminal | version.png |
+| git config --list showing your name and email | config.png |
+| Your repo on github.com after pushing | repo.png |
 
 ---
 
